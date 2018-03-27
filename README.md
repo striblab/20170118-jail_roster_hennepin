@@ -1,5 +1,4 @@
-Star Tribune - Hennepin County Jail Roster
-================
+# Hennepin County Jail Roster
 
 by [Frey Hargarten](https://github.com/jeffhargarten)
 
